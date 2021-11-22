@@ -47,3 +47,6 @@ plot(gr_participacion)
 
 #prueba 2
 3+3
+
+#prueba 3
+4+4
