@@ -41,3 +41,7 @@ gr_participacion <- ggplot( computoeinegi,
               theme(axis.text.x=element_text(angle=50,size=12))
 
 plot(gr_participacion)
+
+#Prueba Lupita
+1+1
+
